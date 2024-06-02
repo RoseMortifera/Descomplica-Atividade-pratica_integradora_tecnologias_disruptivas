@@ -39,6 +39,7 @@ const initialRows = [
   createData(4, 'Tarefa 4', 'Descrição da Tarefa 4', '2022-01-05', '2022-01-06', 'Em Andamento', 'Recurso 4'),
   createData(5, 'Tarefa 5', 'Descrição da Tarefa 5', '2022-01-06', '2022-01-07', 'Em Andamento', 'Recurso 5'),
   createData(6, 'Tarefa 6', 'Descrição da Tarefa 6', '2022-01-07', '2022-01-08', 'Aguardando', 'Recurso 6'),
+  createData(7, 'Tarefa Atividade Descomplica', 'Atividade da Descomplica', '2024-01-07', '2024-01-08', 'Aguardando', 'Recurso 7'),
 ];
 
 //Componente ListarTarefa
